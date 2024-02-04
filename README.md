@@ -1,2 +1,2 @@
 # nature-inspired-algo
-On task scheduling of nature inspired optimization algorithms in cloud environment
+Task scheduling of nature-inspired optimization algorithms in a cloud environment
